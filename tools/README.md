@@ -1,0 +1,31 @@
+# ツール群
+
+## テスト用OS
+[Kali Linux](https://www.kali.org/)
+ - []()
+
+## tools
+### ポートスキャン
+  - NMAP
+  - RustScan
+
+(参考)https://jpn.nec.com/cybersecurity/blog/220930/index.html
+
+### パスワードクラック
+[Hydra](https://www.kali.org/tools/hydra/)
+
+### ハッシュ攻撃
+  - john
+  -
+  - 
+(参考)https://eset-info.canon-its.jp/malware_info/special/detail/240717.html
+
+### 昇格スクリプト
+linPEAS
+
+### webサイトの不備発見とか
+GoBuster
+
+### Sambaの不備とか
+enum4linux
+
