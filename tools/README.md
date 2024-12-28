@@ -32,3 +32,6 @@ enum4linux
 ### 通信解析系
  - wireshark ( 自作USBデバイスのデバッグにも使えて便利 )
  https://www.wireshark.org/download.html
+
+### 脆弱性検索
+searchsploit
