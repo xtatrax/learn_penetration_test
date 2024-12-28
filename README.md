@@ -8,7 +8,7 @@
 
 ### セキュリティ情報源
   - [GTFOBins](https://gtfobins.github.io/#)
-    - ペネトレーションテストチートシート2
+    - ペネトレーションテストチートシート1
   - [PentestMonkey](https://pentestmonkey.net/)
     - ペネトレーションテストチートシート2
   - [国家(USA)脆弱性データベース](https://nvd.nist.gov/vuln/search)
