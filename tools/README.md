@@ -6,8 +6,8 @@
 
 ## tools
 ### ポートスキャン
-  - NMAP
-  - RustScan
+  - [NMAP](#)
+  - [RustScan](#)
 
 (参考)https://jpn.nec.com/cybersecurity/blog/220930/index.html
 
@@ -15,26 +15,26 @@
   - [Hydra](https://www.kali.org/tools/hydra/)
 
 ### ハッシュ攻撃
-  - john
-  - hashcat
+  - [john](#)
+  - [hashcat](#)
   - 
 (参考)https://eset-info.canon-its.jp/malware_info/special/detail/240717.html
 
 ### 昇格スクリプト
-  - linPEAS
+  - [linPEAS](#)
 
 ### webサイトの不備発見とか、隠しディレクトリとか
-  - GoBuster
+  - [GoBuster](#)
 
 ### Sambaの不備とか
-  - enum4linux
+  - [enum4linux](#)
 
 ### 通信解析系
-  - wireshark ( 自作USBデバイスのデバッグにも使えて便利 )
+  - [wireshark](#) ( 自作USBデバイスのデバッグにも使えて便利 )
   https://www.wireshark.org/download.html
 
 ### 脆弱性検索
-  - searchsploit
+  - [searchsploit](#)
 
-### リバースシェル
+### [リバースシェル](#)
   - nc(netcat)コマンド + [PentestMonkey](https://pentestmonkey.net/) などで
