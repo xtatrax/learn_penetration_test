@@ -35,3 +35,6 @@
 
 ### 脆弱性検索
   - searchsploit
+
+### リバースシェル
+  - nc(netcat)コマンド + [PentestMonkey](https://pentestmonkey.net/) などで
