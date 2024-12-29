@@ -43,3 +43,14 @@
 
 ### [リバースシェル](#)
   - nc(netcat)コマンド + [PentestMonkey](https://pentestmonkey.net/) などで
+
+### かなり万能
+  - Metasploit
+    - ナイフレベルで万能性
+    - 気も削れるし、食材も調理出来るし、人っも切り裂ける
+   
+
+
+
+
+
