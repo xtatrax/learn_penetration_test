@@ -7,7 +7,7 @@
 ## tools
 
 ### 迎撃ツール
-  - [portsentry](#)
+  - [portsentry](/portsentry/)
     - こころ強いが、扱いを間違えると過剰防衛しちゃう困ったちゃん
 
 ### ポートスキャン
