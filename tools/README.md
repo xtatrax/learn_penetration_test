@@ -11,17 +11,17 @@
     - こころ強いが、扱いを間違えると過剰防衛しちゃう困ったちゃん
 
 ### ポートスキャン
-  - [NMAP](#)
-  - [RustScan](#)
+  - [NMAP](./nmap/)
+  - [RustScan](./rustscan/)
 
 (参考)https://jpn.nec.com/cybersecurity/blog/220930/index.html
 
 ### パスワードクラック
-  - [Hydra](https://www.kali.org/tools/hydra/)
+  - [Hydra](./hydra/)
 
 ### ハッシュ攻撃
-  - [John the Ripper](#)
-  - [hashcat](#)
+  - [John the Ripper](./john)
+  - [hashcat](./hashcat)
   - 
 (参考)https://eset-info.canon-its.jp/malware_info/special/detail/240717.html
 
