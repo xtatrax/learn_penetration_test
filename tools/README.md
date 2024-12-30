@@ -26,26 +26,26 @@
 (参考)https://eset-info.canon-its.jp/malware_info/special/detail/240717.html
 
 ### 昇格スクリプト
-  - [linPEAS](#)
+  - [linPEAS](./linpeas)
 
 ### webサイトの不備発見とか、隠しディレクトリとか
-  - [GoBuster](#)
+  - [GoBuster](./gobuster)
 
 ### Sambaの不備とか
-  - [enum4linux](#)
+  - [enum4linux](./enum4linux)
 
 ### 通信解析系
-  - [wireshark](#) ( 自作USBデバイスのデバッグにも使えて便利 )
+  - [wireshark](./wireshark) ( 自作USBデバイスのデバッグにも使えて便利 )
   https://www.wireshark.org/download.html
 
 ### 脆弱性検索
-  - [searchsploit](#)
+  - [searchsploit](./searchsploit)
 
-### [リバースシェル](#)
+### [リバースシェル](./reverse_shell)
   - nc(netcat)コマンド + [PentestMonkey](https://pentestmonkey.net/) などで
 
 ### かなり万能
-  - Metasploit
+  - [Metasploit](./metasploit)
     - ナイフレベルで万能性
     - 気も削れるし、食材も調理出来るし、人っも切り裂ける
    
