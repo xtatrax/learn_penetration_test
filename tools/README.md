@@ -20,7 +20,7 @@
   - [Hydra](https://www.kali.org/tools/hydra/)
 
 ### ハッシュ攻撃
-  - [john](#)
+  - [John the Ripper](#)
   - [hashcat](#)
   - 
 (参考)https://eset-info.canon-its.jp/malware_info/special/detail/240717.html
