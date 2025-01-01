@@ -31,6 +31,10 @@
 ### webサイトの不備発見とか、隠しディレクトリとか
   - [GoBuster](./gobuster/README.md)
 
+### アップロード/ダウンロード周り
+  - [curl](./curl/README.md)
+    - https://github.com/curl/curl
+
 ### Sambaの不備とか
   - [enum4linux](./enum4linux/README.md)
 
