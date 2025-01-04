@@ -17,4 +17,6 @@ nmap -sV -T5 -oN outlog.file テスト先IP
 -A # OS確認
 ```
 
+### 高速化
 
+[rustscan](../rustscan/README.md)
