@@ -13,7 +13,8 @@ nmap -sV -T5 -oN outlog.file テスト先IP
 ```
 -sV # ポートを使っている Service と version を調べる
 -T5 # -T<0-5> 高速化
--oN path # 結果をファイルに出力 
+-oN path # 結果をファイルに出力
+-A # OS確認
 ```
 
 
